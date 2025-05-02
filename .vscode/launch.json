@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MsvcBackApplication<msvc-back>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.sergio.reto.industrial.msvc_back.MsvcBackApplication",
+            "projectName": "msvc-back",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
